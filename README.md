@@ -1,1 +1,1 @@
-# minprog-scraper
+This code scrapes thousands of movies from imbd, stores information about them in dataframes and uses this to create multiple plots.
